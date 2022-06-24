@@ -8,7 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 import genericLib.Baseclass;
 import genericLib.WebDriverUtilies;
 
-public class shopping  {
+public class shoppingApp  {
 
 	@FindBy(xpath="(//a[text()=\"Shirts\"])[1]")
 	private WebElement shirt;
